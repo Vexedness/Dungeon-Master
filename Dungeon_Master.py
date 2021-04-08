@@ -2,7 +2,7 @@ import discord
 import requests
 import json
 import random
-
+# gamw thn panagia sou
 client = discord.Client()
 
 happy_words = ["happy","glad","fantastic","good","amazing","cheerful"]
